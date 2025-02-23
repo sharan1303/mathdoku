@@ -1,7 +1,3 @@
-Based on the information provided, here is a draft for your README.md file:
-
----
-
 # Mathdoku
 
 Mathdoku is a Sudoku grid variation that involves more mathematics. It is created using Java and JavaFX for the graphical user interface.
